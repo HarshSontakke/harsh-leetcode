@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0485-max-consecutive-ones) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0002-add-two-numbers) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
