@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0016-3sum-closest) |
 | [0485-max-consecutive-ones](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -39,10 +40,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
