@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1089-duplicate-zeros) |
@@ -42,12 +43,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
