@@ -14,11 +14,13 @@
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
 | ------- |
@@ -50,14 +52,20 @@
 | [0088-merge-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
