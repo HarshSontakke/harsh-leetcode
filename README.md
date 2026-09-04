@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
