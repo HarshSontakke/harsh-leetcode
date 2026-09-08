@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0283-move-zeroes](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
