@@ -41,6 +41,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -72,6 +73,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0022-generate-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
