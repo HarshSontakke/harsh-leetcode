@@ -34,6 +34,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HarshSontakke/harsh-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HarshSontakke/harsh-leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
