@@ -71,6 +71,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
@@ -158,4 +160,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
