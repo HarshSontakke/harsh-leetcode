@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -43,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -107,6 +109,7 @@
 | [0016-3sum-closest](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
