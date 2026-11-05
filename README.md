@@ -23,6 +23,7 @@
 | [0217-contains-duplicate](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -118,6 +119,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0905-sort-array-by-parity) |
