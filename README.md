@@ -21,6 +21,7 @@
 | [0189-rotate-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -46,6 +47,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -65,6 +67,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0509-fibonacci-number) |
@@ -112,6 +115,7 @@
 | [0088-merge-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0905-sort-array-by-parity) |
@@ -130,6 +134,7 @@
 | [0035-search-insert-position](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshSontakke/harsh-leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Counting Sort
@@ -190,4 +195,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
