@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
