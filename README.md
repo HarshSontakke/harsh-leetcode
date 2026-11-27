@@ -32,6 +32,7 @@
 | [0485-max-consecutive-ones](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0905-sort-array-by-parity](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -168,6 +169,7 @@
 | [0070-climbing-stairs](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/HarshSontakke/harsh-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
